@@ -16,4 +16,4 @@ In this repository, there are several methods to optimize *the Regression Task* 
 * Stochastic Gradient Descent with Adam Optimizer
 * Minibatch Gradient Descent
 
-In addition to these algorithms, there are some methods to evaluate the model. To start training, simple use `.run` method for each algorithm.
+In addition to these algorithms, there are some methods to evaluate the model. To start training, simply use `.run` method for each algorithm.
