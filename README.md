@@ -1,4 +1,4 @@
-# Regression-Task-Minimization
+# Regression-Task-Optimization
 
 ## Requirements
 
