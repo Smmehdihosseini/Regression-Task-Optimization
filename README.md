@@ -1,6 +1,6 @@
 # Regression-Task-Minimization
 
-In this repository, there are several methods to optimize the *Regression Task* including:
+In this repository, there are several methods to optimize *the Regression Task* including:
 
 * Least Linear Squares
 * Stochastic Gradient Descent with Adam Optimizer
